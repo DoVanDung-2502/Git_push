@@ -1,0 +1,12 @@
+Git Push 
+Đưa các commit từ local Repository lên remote Repository
+
+Lần đầu tiên push
+git push -u origin main
+
++ git push: Đẩy commit lên remote
++ -u: --set-upstream
++ main: tên nhánh ở trên remote
+
+Lần tiếp theo 
+git push
